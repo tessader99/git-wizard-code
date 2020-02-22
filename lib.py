@@ -12,4 +12,4 @@ def add1(a):
 
 
 def sub1(a):
-    pass
+    return a-1
